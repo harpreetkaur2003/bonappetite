@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Caveat:wght@500&family=Cormorant+Garamond:ital,wght@1,300&family=Lobster&display=swap" rel="stylesheet');
 .header{
     color:black ;
     text-align: center;
@@ -9,5 +10,4 @@
     padding-top: 5px;
     font-weight: bolder;
     text-decoration: overline;
-    font-family: 'Lobster', cursive;
-  }
+    font-family: 'Lobster', cursive;  }

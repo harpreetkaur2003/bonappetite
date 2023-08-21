@@ -1,14 +1,14 @@
-import logo from './logo.svg';
-//import './App.css';
-import Card from './components/Card';
+import React from 'react';
 import Heading from './components/Heading';
+import Card from './components/Card';
+import Reserve from './components/Form/Reserve';
+
 
 function App() {
   return (
-    <div className="App">
-      <Heading />
-      <Card />
-    </div>
+      <div className="App">
+        <Reserve />
+      </div>
   );
 }
 
