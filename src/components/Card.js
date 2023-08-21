@@ -15,6 +15,7 @@ function Card() {
             <div class="card_text">
               <p>Dig into the freshest veggies of the season!jhfskdjgfejsfjsdfjsdafdshj
               </p>
+              <h1>Harpreet</h1>
               <hr />
             </div>
           </div>
