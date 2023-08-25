@@ -1,3 +1,4 @@
+import React from 'react';
 import './Card.css';
 function Card() {
     return (
@@ -20,7 +21,6 @@ function Card() {
           </div>
         </div>
       </li>
-  
       <li class="cards_item">
         <div class="card">
           <div class="card_image">
@@ -144,11 +144,11 @@ function Card() {
         </div>
       </li>
     </ul>
-    <center>
-      <div class="button">
-        Reservation
-      </div>
-      </center>
+        <center>
+          <div className="button">
+            Reservation
+          </div>
+        </center>
   </div>
         </>
     )
